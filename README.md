@@ -1,2 +1,41 @@
-# 8d8e26a6-church-ministry-report-gener
-Spending 10+ hours each week manually compiling attendance sheets, volunteer logs, and giving reports? The Church &amp; Ministry Report Generation and Delivery Automation N8N Workflow eliminates report drudgery by automating your entire reporting pipeline—from data collection to stakeholder delivery.  This N8N workflow connects your existing church sys
+# Church & Ministry Report Generation and Delivery Automation N8N Workflow
+
+> Workflow for Church Ministry
+
+Spending 10+ hours each week manually compiling attendance sheets, volunteer logs, and giving reports? The Church & Ministry Report Generation and Delivery Automation N8N Workflow eliminates report drudgery by automating your entire reporting pipeline—from data collection to stakeholder delivery.
+
+This N8N workflow connects your existing church...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | ✅ | ✅ |
+| Standard nodes | ✅ | ✅ |
+| Manual execution | ✅ | ✅ |
+| Advanced triggers | ❌ | ✅ |
+| Custom nodes | ❌ | ✅ |
+| Scheduled execution | ❌ | ✅ |
+| Error handling | ❌ | ✅ |
+| Webhook integrations | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/4gMbJ126H8Isf446fycZt0f)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
